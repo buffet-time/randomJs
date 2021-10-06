@@ -1,0 +1,14 @@
+{
+	"typescript.tsdk": "node_modules\\typescript\\lib",
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"editor.formatOnSave": true,
+	"eslint.validate": ["javascript"],
+	"editor.tabSize": 2,
+	"editor.insertSpaces": false,
+	"search.exclude": {
+		"**/dist": true,
+		"**/node_modules": true,
+		".eslintcache": true,
+		"pnpm-lock.yaml": true
+	}
+}
